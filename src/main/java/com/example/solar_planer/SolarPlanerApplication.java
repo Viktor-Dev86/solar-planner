@@ -8,6 +8,9 @@ public class SolarPlanerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SolarPlanerApplication.class, args);
+
+
+
 	}
 
 }
